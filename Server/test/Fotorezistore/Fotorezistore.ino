@@ -3,8 +3,8 @@
 #include <ESP8266HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char *ssid = "Ubiquiti"; // Enter WIFI ssid
-const char *password = "moiseev71"; // Enter WIFI password
+const char *ssid = "***"; // Enter WIFI ssid
+const char *password = "***"; // Enter WIFI password
 const char *server_url = "https://nodejsbackendaplus-dfcbc3fc59f6.herokuapp.com/"; // Nodejs application endpoint
 
 
